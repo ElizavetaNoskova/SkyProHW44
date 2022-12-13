@@ -6,7 +6,6 @@ public class Main {
         task4();
         task5();
     }
-
     public static void task1() {
         System.out.println("Задача 1");
         short clientOS = 0;
@@ -16,7 +15,6 @@ public class Main {
             System.out.println("Установите версию приложения для Android по ссылке");
         }
     }
-
     public static void task2() {
         System.out.println("Задача 2");
         short clientOS = 0;
