@@ -42,7 +42,6 @@ public class Main {
             System.out.println(year + "год не является високосным");
         }
     }
-
     public static void task4() {
         System.out.println("Задача 4");
         short deliveryDistance = 95;
